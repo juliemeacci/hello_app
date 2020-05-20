@@ -1,0 +1,2 @@
+module Heroku::MasterHelper
+end
