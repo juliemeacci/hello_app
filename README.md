@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+I am learning a lot today! 
+
 * Ruby version
 
 * System dependencies
